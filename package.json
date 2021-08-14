@@ -1,0 +1,20 @@
+{
+  "name": "hw-10-team-profile-genarator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joel1723/hw-10-team-profile-genarator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joel1723/hw-10-team-profile-genarator/issues"
+  },
+  "homepage": "https://github.com/joel1723/hw-10-team-profile-genarator#readme"
+}
